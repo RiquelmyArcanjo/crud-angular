@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "name": "Teclado Mecânico Gamer Redragon Kumara RGB Switch Outemu Brown ABNT2",
+      "price": "279.99",
+      "id": 1
+    },
+    {
+      "name": "Mouse Gamer Logitech G403 Hero Lightsync 6 Botões 16000 Dpi - Preto",
+      "price": "239.99",
+      "id": 2
+    },
+    {
+      "name": "Monitor Gamer Acer RG241Y FHD FreeSync HDR10 1ms 165Hz IPS Zero frame",
+      "price": "1599.99",
+      "id": 3
+    },
+    {
+      "name": "Mousepad Gamer Redragon Aquarius Speed Macio",
+      "price": "79.99",
+      "id": 4
+    },
+    {
+      "name": "Mouse Gamer Redragon Cobra, 10000DPI, Chroma, Preto - M711",
+      "price": "159.99",
+      "id": 5
+    },
+    {
+      "name": "Teclado Mecânico Gamer HyperX Mars, RGB, Switch Outemu Blue, US - HX-KB3BL3-US/R4",
+      "price": "379.99",
+      "id": 6
+    }
+  ]
+}
